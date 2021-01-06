@@ -1,2 +1,3 @@
 # hello-world
-kısa açıklama 
+Hey!
+It's Fe.
